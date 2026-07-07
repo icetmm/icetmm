@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi 👋 I'm icetm
+<p align="center">
+  <img src="./hello.jpg" alt="Hello" width="200" />
+</p>
 
-<!--
-**icetmm/icetmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
-Here are some ideas to get you started:
+🌱 I enjoy nature, photography, and creative little ideas <br>
+🖥️ I like building interesting things with code <br>
+📷 I love blue skies, branches, light, and quiet moments <br>
+✨ Always exploring, learning, and making something new <br>
+🎮 CS2、VALORANT...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### Through my lens
+
+<p align="center">
+  <img src="./Blue Hour-.jpg" alt="Blue hour sky" width="30%" />
+  <img src="./blue hour.jpg" alt="Blue hour trees" width="30%" />
+</p>
+
+<p align="center">
+  <em>Little fragments of nature I noticed along the way.</em>
+</p>
+
+--- 
+### Find me
+
+<p align="center">
+  <em>Want to say hi、build something or play games together?</em>
+  👉WeChat:icetf314
+</p>
